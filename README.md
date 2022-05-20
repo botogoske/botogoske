@@ -17,9 +17,9 @@
 </a>
 
 <a href="#">
-   <img src="js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   <img src="java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   <img src="javascript.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>
