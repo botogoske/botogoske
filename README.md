@@ -137,7 +137,7 @@
 </a>
 
 <a href="#">
-   <img src="https://github-readme-stats.vercel.app/api?username={Botogoske}&theme=blue-green" style="vertical-align:top margin:6px 4px">
+   <img src="https://github-readme-stats.vercel.app/api?username=Botogoske&theme=blue-green" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
