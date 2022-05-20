@@ -31,10 +31,6 @@
 <br>
 
 <a href="#">
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
@@ -47,11 +43,11 @@
 </a>
  	
 <a href="#">
-   <img src="" style="vertical-align:top margin:6px 4px">
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="" style="vertical-align:top margin:6px 4px">
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
