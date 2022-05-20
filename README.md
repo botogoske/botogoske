@@ -25,11 +25,19 @@
 </a>
 
 <a href="#">
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="" style="vertical-align:top margin:6px 4px">
+   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
