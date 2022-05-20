@@ -1,4 +1,4 @@
-# Botogoske
+# Who I am doesn't matter, what I do is what defines me
 
 <a href="#">
    <img src="ai.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -6,6 +6,10 @@
 
 <a href="#">
    <img src="iot.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="cpp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
