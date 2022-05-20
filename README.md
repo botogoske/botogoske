@@ -90,26 +90,6 @@
    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
-<a href="#">
-   <img src="" style="vertical-align:top margin:6px 4px">
-</a>
-
-<br>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<br>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
 <br>
 
 <a href="#">
@@ -128,3 +108,16 @@
    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
+<br>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
