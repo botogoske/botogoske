@@ -85,15 +85,15 @@
 </a>
 
 <a href="#">
+   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
    <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
 #### Cloud Skills
@@ -103,15 +103,15 @@
 </a>
 
 <a href="#">
-   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
 #### Games Engines Skills
