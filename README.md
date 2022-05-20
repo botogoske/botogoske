@@ -1,29 +1,29 @@
-# Who I am doesn't matter, what I do is what defines me
+# Who I am doesn't matter what I do is what defines me
 
 <a href="#">
-   <img src="ai.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   <img src="ai.svg" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="iot.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   <img src="iot.svg" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="cpp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   <img src="cpp.svg" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   <img src="python.svg" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="go.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   <img src="go.svg" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   <img src="java.svg" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   <img src="js.svg" style="vertical-align:top margin:6px 4px">
 </a>
