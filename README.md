@@ -1,19 +1,8 @@
 ## Who I am doesn't matter what I do is what defines me
 
 <a href="#">
-   <img src="https://img.shields.io/github/followers/Botogoske.svg?style=social&label=Follow&maxAge=2592000" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/github/EpicGames/UnrealEngine.svg" style="vertical-align:top margin:6px 4px">
-</a>
-
-<br>
-
-<a href="#">
    <img src="https://github-readme-stats.vercel.app/api?username=Botogoske&theme=blue-green" style="vertical-align:top margin:6px 4px">
 </a>
-
 
 #### Programming Skills
 
