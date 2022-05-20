@@ -120,6 +120,8 @@
    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
+#### AI Skills
+
 <a href="#">
    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
@@ -143,6 +145,8 @@
 <a href="#">
    <img src="https://github-readme-stats.vercel.app/api?username=Botogoske&theme=blue-green" style="vertical-align:top margin:6px 4px">
 </a>
+
+<br>
 
 <a href="#">
    <img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000" style="vertical-align:top margin:6px 4px">
