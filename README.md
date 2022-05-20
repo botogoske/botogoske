@@ -121,3 +121,25 @@
 <a href="#">
    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
+
+<br>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://github-readme-stats.vercel.app/api?username={Botogoske}&theme=blue-green" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="" style="vertical-align:top margin:6px 4px">
+</a>
