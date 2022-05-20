@@ -113,7 +113,7 @@
 </a>
 
 <a href="#">
-   <img src="" style="vertical-align:top margin:6px 4px">
+   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
