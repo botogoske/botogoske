@@ -1,5 +1,7 @@
 ## Who I am doesn't matter what I do is what defines me
 
+### Programming Skills
+
 <a href="#">
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
