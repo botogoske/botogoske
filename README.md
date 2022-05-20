@@ -5,7 +5,7 @@
 </a>
 
 <a href="#">
-   <img src="https://img.shields.io/github/stars/Botogoske/{repo-name}.svg" style="vertical-align:top margin:6px 4px">
+   <img src="https://img.shields.io/github/forks/Botogoske/{repo-name}.svg" style="vertical-align:top margin:6px 4px">
 </a>
 
 #### Programming Skills
