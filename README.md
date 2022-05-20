@@ -44,7 +44,7 @@
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08" style="vertical-align:top margin:6px 4px">
 </a>
 
-<br>
+#### SO Skills
 
 <a href="#">
    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" style="vertical-align:top margin:6px 4px">
@@ -66,7 +66,7 @@
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
-<br>
+#### Database Skills
 
 <a href="#">
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="vertical-align:top margin:6px 4px">
@@ -92,7 +92,7 @@
    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
-<br>
+#### Cloud Skills
 
 <a href="#">
    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="vertical-align:top margin:6px 4px">
@@ -110,7 +110,7 @@
    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
-<br>
+#### Games Engines Skills
 
 <a href="#">
    <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" style="vertical-align:top margin:6px 4px">
@@ -124,7 +124,7 @@
    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
-<br>
+#### IoT Skills
 
 <a href="#">
    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="vertical-align:top margin:6px 4px">
@@ -138,6 +138,24 @@
    <img src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
+#### GitHub Stats
+
 <a href="#">
    <img src="https://github-readme-stats.vercel.app/api?username=Botogoske&theme=blue-green" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="" style="vertical-align:top margin:6px 4px">
 </a>
