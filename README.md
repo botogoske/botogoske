@@ -42,14 +42,6 @@
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08" style="vertical-align:top margin:6px 4px">
 </a>
 
-<a href="#">
-   <img src="" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="" style="vertical-align:top margin:6px 4px">
-</a>
-
 <br>
 
 <a href="#">
@@ -70,6 +62,58 @@
 
 <a href="#">
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<br>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<br>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<br>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<br>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="" style="vertical-align:top margin:6px 4px">
+</a>
+
+<a href="#">
+   <img src="" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
