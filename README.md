@@ -148,8 +148,6 @@
    <img src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
-#### GitHub Stats
-
 <a href="#">
    <img src="https://github-readme-stats.vercel.app/api?username=Botogoske&theme=blue-green" style="vertical-align:top margin:6px 4px">
 </a>
