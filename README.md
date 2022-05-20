@@ -105,11 +105,11 @@
 </a>
 
 <a href="#">
-   <img src="" style="vertical-align:top margin:6px 4px">
+   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="" style="vertical-align:top margin:6px 4px">
+   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
