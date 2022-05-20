@@ -149,7 +149,7 @@
 <br>
 
 <a href="#">
-   <img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000" style="vertical-align:top margin:6px 4px">
+   <img src="https://img.shields.io/github/followers/Botogoske.svg?style=social&label=Follow&maxAge=2592000" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
