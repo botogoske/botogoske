@@ -34,4 +34,7 @@
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align:top margin:6px 4px">
 </a>
 
+<a href="#">
+   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
 
