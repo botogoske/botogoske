@@ -1,6 +1,6 @@
 ## Who I am doesn't matter what I do is what defines me
 
-### Programming Skills
+#### Programming Skills
 
 <a href="#">
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="vertical-align:top margin:6px 4px">
@@ -22,7 +22,7 @@
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
-<br>
+#### Web Technologies Skills
 
 <a href="#">
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="vertical-align:top margin:6px 4px">
