@@ -21,5 +21,5 @@
 </a>
 
 <a href="#">
-   <img src="go.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   <img src="java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>
