@@ -1,10 +1,6 @@
 ## Who I am doesn't matter, what I do is defines me
 
-<a href="#">
-   <img src="https://github-readme-stats.vercel.app/api?username=Botogoske&theme=blue-green" style="vertical-align:top margin:6px 4px">
-</a>
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Botogoske&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 #### Programming Skills
 
