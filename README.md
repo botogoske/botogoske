@@ -91,7 +91,7 @@
 </a>
 
 <a href="#">
-   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" style="vertical-align:top margin:6px 4px">
+   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" style="vertical-align:top margin:6px 4px">
 </a>
 
 #### Cloud Skills
