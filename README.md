@@ -90,6 +90,10 @@
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
+<a href="#">
+   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" style="vertical-align:top margin:6px 4px">
+</a>
+
 #### Cloud Skills
 
 <a href="#">
