@@ -14,27 +14,7 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
-<a href="#">
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
 #### Web Technologies Skills
-
-<a href="#">
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
 
 <a href="#">
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08" style="vertical-align:top margin:6px 4px">
@@ -54,10 +34,6 @@
    <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
  	
-<a href="#">
-   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
 #### Database Skills
 
 <a href="#">
@@ -84,10 +60,6 @@
 
 <a href="#">
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
 #### Games Engines Skills
