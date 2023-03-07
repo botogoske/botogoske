@@ -3,10 +3,6 @@
 #### Programming Skills
 
 <a href="#">
-   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
@@ -37,29 +33,11 @@
 #### Database Skills
 
 <a href="#">
-   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
 <a href="#">
-   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-#### Cloud Skills
-
-<a href="#">
-   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" style="vertical-align:top margin:6px 4px">
 </a>
 
 #### Games Engines Skills
