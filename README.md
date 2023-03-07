@@ -10,30 +10,6 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
-#### SO Skills
-
-<a href="#">
-   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
- 	
-#### Database Skills
-
-<a href="#">
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
-   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
 #### Games Engines Skills
 
 <a href="#">
