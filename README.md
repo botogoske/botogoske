@@ -10,12 +10,6 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
-#### Web Technologies Skills
-
-<a href="#">
-   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08" style="vertical-align:top margin:6px 4px">
-</a>
-
 #### SO Skills
 
 <a href="#">
