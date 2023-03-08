@@ -11,10 +11,6 @@
 </a>
 
 <a href="#">
-   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" style="vertical-align:top margin:6px 4px">
-</a>
-
-<a href="#">
    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="vertical-align:top margin:6px 4px">
 </a>
 
