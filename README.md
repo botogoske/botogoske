@@ -1,4 +1,3 @@
-<h1 align="center">Elio Joly Botogoske</h1>
 <h3 align="center">Computer Engineer from Brazil</h3>
 
 - 🌱 I'm a person with Autism Spectrum Disorder and ADHD.
