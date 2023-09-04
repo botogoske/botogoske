@@ -1,5 +1,3 @@
-<h3 align="center">Computer Engineer from Brazil</h3>
-
 - 🌱 I'm a person with Autism Spectrum Disorder and ADHD.
 
 - 💬 Ask me about **Software Development, AI, and Machine Learning**
