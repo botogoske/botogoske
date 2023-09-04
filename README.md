@@ -1,6 +1,6 @@
-- 🌱 I'm a person with Autism Spectrum Disorder and ADHD.
+- 🌱 I'm a person with **Autism Spectrum Disorder** and **ADHD**
 
-- 💬 Ask me about **Software Development, AI, and Machine Learning**
+- 💬 Ask me about Software Development, AI, and Machine Learning
 
 - 📫 How to reach me **elio@botogoske.com**
 
